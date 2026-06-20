@@ -6,7 +6,7 @@ class Mlxvm < Formula
   url "https://github.com/Botfather/mlxvm/archive/refs/tags/v0.1.0.tar.gz"
   # Placeholder until the first tagged release; the release workflow's
   # auto-bump job rewrites url + sha256 on every `v*` tag.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "89c8a5e6af3e4289a23066f39abfa03c30f96a50aedf852fd2b7763d903d9936"
   license "MIT"
   head "https://github.com/Botfather/mlxvm.git", branch: "main"
 
